@@ -12,6 +12,17 @@ ingredients are on  Ingredients
 and to know more detail about recipe you can check Recipe section
 
 
+
+
+
+
+
+
+
+
+
+
+
 Ingredients
 
 
@@ -28,6 +39,18 @@ custard
 1 cup whole milk (250 ml)
 2 cups heavy cream (480 ml)
 1 tsp vanilla extract (you can also use a vanilla bean)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //RECIPE
